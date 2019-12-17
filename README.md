@@ -21,6 +21,7 @@ the CMD and entering the channel ID. You can now send messages through the CMD t
 the same way, but use /user to select the user and /dm to send the message.
 
 ---Commands---
+
 /quit - Sets status to invisible and quits the program
 
 /channel - Selects the active text channel
