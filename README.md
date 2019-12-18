@@ -12,8 +12,8 @@ Extract the zip
   RCBot is fairly simple to set up. First, go to https://discordapp.com/developers/applications/ . You will need to make a new
 application and bot account.
 
-  Afterwards, copy the bot token on the bot page. You will need to exstract the zip and open index.js in a text editor such
-as Notepad++. Under the section labbled "Bot start", replace "Put login token here" with your bot token.
+  Afterwards, copy the bot token on the bot page. You will need to extract the zip and open index.js in a text editor such
+as Notepad++. Under the section labled "Bot start", replace "Put login token here" with your bot token.
 
   The bot should be ready to start now. Try running start.bat to launch the bot.
   
