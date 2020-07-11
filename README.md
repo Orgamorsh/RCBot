@@ -21,11 +21,17 @@ as Notepad++. Under the section labled "Bot start", replace "Put login token her
 
   After launch, the bot should have a CMD open with the text "Bot Online". Select a text channel by typing /channel into
 the CMD and entering the channel ID. You can now send messages through the CMD to the text channel. You can send direct messages
-the same way, but use /user to select the user and /dm to send the message.
+the same way, but use /user to select the user and /dm to send the message. The process is the same with voice chat.
 
 ---Commands---
 
 /quit - Sets status to invisible and quits the program
+
+/join - let's you join a voice channel
+
+/leave - leaves voice channels
+
+/tts - Toggles tts
 
 /channel - Selects the active text channel
 
@@ -46,3 +52,9 @@ the same way, but use /user to select the user and /dm to send the message.
 /stream - Sets a stream status
 
 /watch - Sets a watching status
+
+---Change Log---
+  --Update 2--
+-Updated to discord.js v12
+-added opus
+-added voice/tts compatabillity
