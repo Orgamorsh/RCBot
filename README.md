@@ -27,7 +27,7 @@ the same way, but use /user to select the user and /dm to send the message. The 
 
 ---Commands---
 
-/quit - Sets status to invisible and quits the program
+/quit - Quits the program
 
 /join - let's you join a voice channel
 
