@@ -5,6 +5,8 @@ A bot for Discord that can be remotely controled like a user.
 
 Install node.js: https://nodejs.org/en/
 
+Install ffmpeg: https://ffmpeg.org/
+
 Extract the zip
 
 ---How to set up---
